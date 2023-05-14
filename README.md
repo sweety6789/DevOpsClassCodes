@@ -1,4 +1,4 @@
-##Addressbook Tutorial for second time practise
+##Addressbook Tutorial for scripted practise time
 
 
 
